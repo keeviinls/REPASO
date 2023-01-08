@@ -1,8 +1,8 @@
-package A__EXAMENES_Y_EJERCICIOSWORD;
+package EJERCICIOSMETODOS_INVERTIRARRAY;
 
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class Ejercicio2_CalcPotencia {
     public static void main(String[] args) {
         //declarar, variables
         int base,exponente=0;

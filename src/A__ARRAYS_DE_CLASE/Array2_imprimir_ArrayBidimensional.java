@@ -2,7 +2,7 @@ package A__ARRAYS_DE_CLASE;
 
 import java.util.Scanner;
 
-public class Array2 {
+public class Array2_imprimir_ArrayBidimensional {
 
     public static void main(String[] args) {
 

@@ -1,9 +1,11 @@
-package A__EXAMENES_Y_EJERCICIOSWORD;
+package EXAMENESMIO;
+//AQUI ESTA UN SUMATORIO, QUE ES SI ME DAS EL 4 TE CALCULA 0+1+2+3+4=10
+//INVERTIR UN ARRAY
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Elpepe {
+public class Ej1_SUMATORIO_Y_INVERTIRARRAY {
     public static void main(String[] args) {
         int opcion=0;
         do {

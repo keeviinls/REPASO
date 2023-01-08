@@ -3,7 +3,7 @@ package A__ARRAYS_DE_CLASE;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArrayEjercicio11 {
+public class ArrayEjercicio11_Añadir_numero_en_hueco {
     public static void main(String[] args) {
         int [] array1 = {1,2};
         int [] array1simulado = new int[3];

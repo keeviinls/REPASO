@@ -1,9 +1,9 @@
-package A__EXAMENES_Y_EJERCICIOSWORD;
+package EJERCICIOSMETODOS_INVERTIRARRAY;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SOLOPRUEBAS {
+public class INVERTIR_ARRAY {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double[] array;

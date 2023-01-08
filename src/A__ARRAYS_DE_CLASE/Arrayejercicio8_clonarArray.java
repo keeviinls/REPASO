@@ -1,6 +1,6 @@
 package A__ARRAYS_DE_CLASE;
 
-public class Arrayejercicio8 {
+public class Arrayejercicio8_clonarArray {
     public static void main(String[] args) {
         int [] numeros = {1,2,3,4,5};
         int [] listanumeros2 = new int[4];

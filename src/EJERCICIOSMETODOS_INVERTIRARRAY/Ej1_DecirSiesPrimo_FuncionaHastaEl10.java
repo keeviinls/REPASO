@@ -1,8 +1,8 @@
-package A__EXAMENES_Y_EJERCICIOSWORD;
+package EJERCICIOSMETODOS_INVERTIRARRAY;
 
 import java.util.Scanner;
 
-public class Ej1 {
+public class Ej1_DecirSiesPrimo_FuncionaHastaEl10 {
 
     public static void main(String[] args) {
 

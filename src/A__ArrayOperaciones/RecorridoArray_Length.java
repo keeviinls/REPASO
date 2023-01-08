@@ -1,12 +1,14 @@
 package A__ArrayOperaciones;
 
+import java.util.Arrays;
+
 public class RecorridoArray_Length {
     public static void main(String[] args) {
-        int [] edades2 = new int[5];
+        int [] edades2 = {245,2231,10,40,21};
         //VEMOS QUE SI USAMOS LENGTH, NOS MUESTRA CUAL ES EL TAMAÑO,
         System.out.println(edades2.length);
 
-        for (int i=0;i<5;i++){
+        for (int i=0;i<edades2.length;i++){
             edades2[i]=i;
         }
 
@@ -25,5 +27,6 @@ public class RecorridoArray_Length {
         for (int elemento: edades2){
             System.out.println(elemento);
         }
+
     }
 }

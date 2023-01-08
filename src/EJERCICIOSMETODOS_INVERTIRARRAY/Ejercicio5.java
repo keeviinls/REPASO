@@ -1,4 +1,4 @@
-package A__EXAMENES_Y_EJERCICIOSWORD;
+package EJERCICIOSMETODOS_INVERTIRARRAY;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@ package A__ARRAYS_DE_CLASE;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArrayEjercicio12 {
+public class ArrayEjercicio12_Eliminar_Valor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int [] array_inicial = {5,46,3,9};

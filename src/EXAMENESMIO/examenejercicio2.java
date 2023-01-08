@@ -1,4 +1,4 @@
-package A__EXAMENES_Y_EJERCICIOSWORD;
+package EXAMENESMIO;
 
 import java.util.Scanner;
 

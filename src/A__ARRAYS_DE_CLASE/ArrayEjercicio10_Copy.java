@@ -1,6 +1,6 @@
 package A__ARRAYS_DE_CLASE;
 
-public class ArrayEjercicio10 {
+public class ArrayEjercicio10_Copy {
     public static void main(String[] args) {
         int[] arrayorigen = {1, 2, 3, 4, 5};
 

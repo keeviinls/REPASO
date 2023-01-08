@@ -1,6 +1,6 @@
 package A__ARRAYS_DE_CLASE;
 
-public class ArrayEjercicio4 {
+public class ArrayEjercicio4_ORDENARARRAY {
     public static void main(String[] args) {
         int [] numeros ={121,12,1,55};
         java.util.Arrays.sort(numeros);

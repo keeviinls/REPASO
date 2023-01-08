@@ -2,7 +2,7 @@ package A__ARRAYS_DE_CLASE;
 
 import java.util.Arrays;
 
-public class ArrayEjercicio6 {
+public class ArrayEjercicio6_UsoDe__FILL {
     public static void main(String[] args) {
 
         int [] numeros = new int[6];

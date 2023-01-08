@@ -2,7 +2,7 @@ package A__ARRAYS_DE_CLASE;
 
 import java.util.Scanner;
 
-public class Arrayejercicio7 {
+public class Arrayejercicio7_indica_en_queposicion_Esta {
     public static void main(String[] args) {
 
         String[] lista = {"Messi","Cristiano","Neymar","Pedri","Haaland"};

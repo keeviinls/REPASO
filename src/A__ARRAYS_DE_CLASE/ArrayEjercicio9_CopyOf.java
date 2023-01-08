@@ -1,6 +1,6 @@
 package A__ARRAYS_DE_CLASE;
 
-public class ArrayEjercicio9 {
+public class ArrayEjercicio9_CopyOf {
     public static void main(String[] args) {
         int [] numeros = {1,2,3,4,5};
         System.out.println("Array numeros " +java.util.Arrays.toString(numeros));

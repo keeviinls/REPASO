@@ -2,7 +2,7 @@ package A__ARRAYS_DE_CLASE;
 
 import java.util.Arrays;
 
-public class ArrayEjercicio5 {
+public class ArrayEjercicio5_UsoDeEquals {
 
     public static void main(String[] args) {
         int [] numeros1 ={121,12,1,55};
