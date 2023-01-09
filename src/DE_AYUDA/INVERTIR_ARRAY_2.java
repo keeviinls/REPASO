@@ -1,9 +1,9 @@
-package EJERCICIOSMETODOS_INVERTIRARRAY;
+package DE_AYUDA;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class INVERTIR_ARRAY_SALE_MAL {
+public class INVERTIR_ARRAY_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int dimension = 0;
@@ -19,7 +19,7 @@ public class INVERTIR_ARRAY_SALE_MAL {
         System.out.println("El array quedaria  "+ Arrays.toString(array));
         double [] array_invertido = new double[dimension];
         for (int i=0;i<array.length;i++){
-            array_invertido [i] = array.length-i;
+            array_invertido [i] =array[array.length-1-i];
 
         }
 

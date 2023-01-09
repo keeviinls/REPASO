@@ -1,4 +1,4 @@
-package EJERCICIOSMETODOS_INVERTIRARRAY;
+package EJERCICIOSMETODOS;
 
 import java.util.Arrays;
 import java.util.Scanner;
